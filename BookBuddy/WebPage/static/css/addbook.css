@@ -1,0 +1,129 @@
+
+.addbook
+{
+  position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%, -50%);
+	width:350px;
+	height:750px;
+	padding:80px 30px;
+	box-sizing: border-box;
+	background:rgba(0,0,0,0.5) ;
+	border-radius:10px;
+}
+
+.addbook input
+{
+
+   width:100%;
+	margin-bottom: 20px;
+
+}
+.addbook input[type="text"], .addbook input[type="password"]
+{
+	border: none;
+	border-bottom: 1px solid #fff;
+	background: transparent;
+	outline:none;
+	height:40px;
+	color:#fff;
+	font-size: 16px;
+
+}
+
+.addbook input[type="submit"]
+{
+	border:none;
+	outline:none;
+	height: 40px;
+	color:#fff;
+	font-size:16px;
+	background: rgb(255,38,126);
+	cursor:pointer;
+	border-radius:20px;
+}
+
+
+.addbook input[type="submit"]:hover
+{
+	background: #efed40;
+	color: #262626;
+}
+.addbook h2
+{
+  margin:0;
+	padding:0 0 20px;
+	color:#fff;
+	text-align:center;
+
+}
+.addbook p
+{
+	padding:0;
+	margin:0;
+	color:rgba(255,255,255,0.5);
+	text-align:left;
+
+}
+
+.addbook a
+{
+	color: #fff;
+	font-size:14px;
+	font-weight:bold;
+	text-decoration:none;
+}
+.addbook a:hover
+{
+    color: skyblue;
+}
+.addbook textarea
+{
+	border: none;
+	border-bottom: 1px solid #fff;
+	background: transparent;
+	outline:none;
+	height:40px;
+	color:#fff;
+	font-size: 16px;
+	width:100%;
+}
+
+.addbook select
+{
+	border: none;
+	border-bottom: 1px solid #fff;
+	background: transparent;
+	outline:none;
+	height:40px;
+	color:rgba(255,255,255,0.5);
+	font-size: 16px;
+	width:100%;
+}
+
+::placeholder
+{
+	color:rgba(255,255,255,0.5);
+}
+
+#custom-button {
+  padding: 10px;
+  color: white;
+  background-color: rgb(255,38,126);
+  border: 0px solid #000;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 10px;
+  margin-right:22px;
+}
+
+#custom-button:hover {
+  background-color: #00b28f;
+}
+
+#custom-text {
+  font-family: sans-serif;
+  color: #aaa;
+  font-size: 13px;
+}

@@ -1,0 +1,121 @@
+{
+  "User" : {
+    "007" : {
+      "email" : "sohil.l@somaiya.edu",
+      "name" : "Sohil Luhar",
+      "pass" : "abc"
+    }
+  },
+  "bookbuddybook" : {
+    "15548138377246935" : {
+      "author" : "Paul Barry",
+      "bookcat" : "reference",
+      "bookimg" : "https://firebasestorage.googleapis.com/v0/b/bookbuddy76445.appspot.com/o/BookImages%2F80e5e32200ba4529ad74553f646cd952?alt=media&token=1",
+      "booktype" : "Engineering",
+      "description" : "with Head First Python, you'll quickly grasp Python's fundamentals",
+      "name" : "Head First Python: A Brain-Friendly Guide",
+      "phone1" : "9833085347",
+      "price" : "900",
+      "publication" : "O Reilly",
+      "username" : "Sohil Luhar",
+      "userphone" : "9833085347"
+    },
+    "1554814606169646" : {
+      "author" : "Peter Thiel",
+      "bookcat" : "Other",
+      "bookimg" : "https://firebasestorage.googleapis.com/v0/b/bookbuddy76445.appspot.com/o/BookImages%2F8826251adb214623a2caaff2caa1c1cf?alt=media&token=1",
+      "booktype" : "Other",
+      "description" : "The book gives a completely new perspective on how businesses should be run",
+      "name" : "Zero to One: Note on Start Ups",
+      "phone1" : "9833085347",
+      "price" : "250",
+      "publication" : "Peter Thiel",
+      "username" : "Sohil Luhar",
+      "userphone" : "9833085347"
+    },
+    "1554818700507047" : {
+      "author" : "Tata",
+      "bookcat" : "Reference",
+      "bookimg" : "https://firebasestorage.googleapis.com/v0/b/bookbuddy76445.appspot.com/o/BookImages%2Fe536c6def3984ab7b3cc354c983efd54?alt=media&token=1",
+      "booktype" : "Engineering",
+      "description" : "Learn java from basic",
+      "name" : "Java",
+      "phone1" : "7208773082",
+      "price" : "900",
+      "publication" : "Tata",
+      "username" : "Sohil Luhar",
+      "userphone" : "9833085347"
+    },
+    "15548206465163522" : {
+      "author" : "J.K. Rowling",
+      "bookcat" : "Novel",
+      "bookimg" : "https://firebasestorage.googleapis.com/v0/b/bookbuddy76445.appspot.com/o/BookImages%2F4e1f154074724ba7ad0bf5f77349a177?alt=media&token=1",
+      "booktype" : "Other",
+      "description" : "Harry Potter book",
+      "name" : "Harry Potter",
+      "phone1" : "7208773082",
+      "price" : "800",
+      "publication" : "J.K. Rowling",
+      "username" : "Sohil Luhar",
+      "userphone" : "9833085347"
+    }
+  },
+  "users" : {
+    "098" : {
+      "address" : "",
+      "mail" : "sky@gmail.com",
+      "name" : "",
+      "password" : "890",
+      "phone" : "098",
+      "stream" : "engineering"
+    },
+    "123" : {
+      "address" : "Ghatkopar",
+      "mail" : "abce@gmail.com",
+      "name" : "xyz",
+      "password" : "789",
+      "phone" : "123",
+      "stream" : "engineering"
+    },
+    "789" : {
+      "address" : "331,AZAD NAGAR,DHARMVEER SHAMBAJI PATH,HILL NO4,NEAR SUBEDAAR SCHOOOL,GHATKOPAR WEST",
+      "mail" : "xyzq@GMAIL.COM",
+      "name" : "SOHIL",
+      "password" : "123",
+      "phone" : "789",
+      "stream" : "medical"
+    },
+    "1234567890" : {
+      "address" : "Ghatkopar",
+      "mail" : "abcdu@gmail.com",
+      "name" : "Test",
+      "password" : "123",
+      "phone" : "1234567890",
+      "stream" : "engineering"
+    },
+    "8691934064" : {
+      "address" : "vidyavihar",
+      "mail" : "sagar@gmail.com",
+      "name" : "Sagar Vora",
+      "password" : "789",
+      "phone" : "8691934064",
+      "stream" : "engineering"
+    },
+    "9833085347" : {
+      "address" : "ghatkopar",
+      "mail" : "jkl@gmail.com",
+      "name" : "Sohil Luhar",
+      "password" : "123",
+      "phone" : "9833085347",
+      "stream" : "engineering"
+    },
+    "9876543210" : {
+      "address" : "Ghatkopar west",
+      "mail" : "abcd@gmail.com",
+      "name" : "Sohil Luhar",
+      "password" : "123",
+      "phone" : "9876543210",
+      "stream" : "engineering"
+    }
+  }
+}

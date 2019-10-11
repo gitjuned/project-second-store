@@ -1,0 +1,85 @@
+
+.reset p
+{
+	padding:0;
+	margin:0;
+	font-weight:bold;
+	color:#fff;
+	text-align:left;
+
+}
+
+.reset a
+{
+	color: #fff;
+	font-size:14px;
+	font-weight:bold;
+	text-decoration:none;
+} 
+.reset a:hover
+{
+    color: skyblue;
+}
+
+::placeholder
+{
+	color:rgba(255,255,255,0.5); 
+}
+
+.reset
+{
+    position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%, -50%);
+	width:350px;
+	height:460px;
+	padding:80px 40px;
+	box-sizing: border-box;
+	background:rgba(0,0,0,0.5) ;
+	border-radius:10px;	
+}
+.reset input
+{
+	width:100%;
+	margin-bottom: 20px; 
+}
+.reset input[type="password"]
+{
+	border: none;
+	border-bottom: 1px solid #fff;
+	background: transparent;
+	outline:none;
+	height:40px;
+	color:#fff;
+	font-size: 16px;
+}
+.reset input[type="button"]
+{
+	border:none;
+	outline:none;
+	height: 40px;
+	color:#fff;
+	font-size:16px;
+	background: rgb(255,38,126);
+	cursor:pointer;
+	border-radius:20px;
+}
+
+
+.reset input[type="button"]:hover
+{
+	background: #efed40;
+	color: #262626;
+}
+.reset h2
+{
+    margin:0;
+	padding:0 0 20px;
+	color:#fff;
+	text-align:center;   
+}
+::placeholder {
+    color:aliceblue;
+    opacity: 0.8; /* Firefox */
+}

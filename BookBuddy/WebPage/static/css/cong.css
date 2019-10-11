@@ -1,0 +1,39 @@
+
+.cong a
+{
+    color: #fff;
+	font-size:14px;
+	font-weight:bold;
+	text-decoration:none;
+}
+.cong
+{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%, -50%);
+	width:350px;
+	height:450px;
+	padding:80px 40px;
+	box-sizing: border-box;
+	background:rgba(0,0,0,0.5) ;
+	border-radius:10px;
+}
+.cong h2
+{
+	margin:0;
+	padding:0 0 20px;
+	color:#fff;
+	text-align:center;
+}
+.buttons{
+  border:none;
+  outline:none;
+  height: 40px;
+  color:#fff;
+  font-size:16px;
+  background: rgb(255,38,126);
+  cursor:pointer;
+  border-radius:15px;
+  padding: 10px;
+}
